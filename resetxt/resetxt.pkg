@@ -1,0 +1,4 @@
+D 'aic_model_selection': Forward Model Selection using AIC or BIC Use aic_model_selection With STATA 19
+D
+F aic_model_selection.ado
+F aic_model_selection.sthlp
