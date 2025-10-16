@@ -2,4 +2,4 @@
 1
 2
 3
-p aic_model_selection Forward Model Selection using AIC or BIC Use aic_model_selection With STATA 19
+p resetxt Panel Data REgression Specification Error Tests (RESET) Use resetxt With STATA 19
